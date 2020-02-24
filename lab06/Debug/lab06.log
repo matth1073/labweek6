@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\matth\Desktop\lab06\main.cpp(25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab06\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab06\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab06\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  lab06.vcxproj -> C:\Users\matth\Desktop\lab06\Debug\lab06.exe
